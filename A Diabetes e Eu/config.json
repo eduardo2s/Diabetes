@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "A rede demonstra as palavras que se mostram mais comuns na página a \"A Diabetes e Eu\", \nlevando em conta o período entre 01/01/2014 e 10/10/2018, as cores apresentam os \nclusters de palavras que mais se conectam entre sí, o maior ponto da rede representa a \npalavra mais utilizada em todos as postagens.",
+    "intro": "A rede demonstra as palavras que se mostram mais comuns na página a \"A Diabetes e Eu\", \nlevando em conta o período entre 01/01/2014 e 10/10/2018, as cores apresentam os \nclusters de palavras que mais se conectam entre sí, o maior ponto da rede representa a \npalavra mais utilizada em todos as postagens.",
+    "title": "A Diabetes e Eu"
+  },
+  "legend": {
+    "edgeLabel": "Conexões",
+    "colorLabel": "Grupos de Palavras que mais conectam",
+    "nodeLabel": "Palavras"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
