@@ -10,7 +10,7 @@
   "text": {
     "more": "A rede demonstra as palavras que se mostram mais comuns em todas as páginas, \nlevando em conta o período entre 01/01/2014 e 10/10/2018, as cores apresentam os \nclusters de palavras que mais se conectam entre sí, o maior ponto da rede representa a \npalavra mais utilizada em todos as postagens.",
     "intro": "A rede demonstra as palavras que se mostram mais comuns em todas as páginas, \nlevando em conta o período entre 01/01/2014 e 10/10/2018, as cores apresentam os \nclusters de palavras que mais se conectam entre sí, o maior ponto da rede representa a \npalavra mais utilizada em todos as postagens.",
-    "title": "Carol Freitas Diabética  Doces contos de uma vida doce"
+    "title": "Rede Geral com termos de todas as páginas que tiveram inicio em 2014"
   },
   "legend": {
     "edgeLabel": "Conexões",
