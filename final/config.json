@@ -8,8 +8,8 @@
     "text": "Eduardo"
   },
   "text": {
-    "more": "A rede apresenta todas as palavras utilizadas em postagens de 61 páginas diferentes do Facebook, com a temática a respeito da diabetes, o periodo pesquisado foi entre 01/01/2014 e 10/10/2018.",
-    "intro": "A rede apresenta todas as palavras utilizadas em postagens de 61 páginas diferentes do Facebook, com a temática a respeito da diabetes, o periodo pesquisado foi entre 01/01/2014 e 10/10/2018.",
+    "more": "Rede de palavras das publicações do Facebook de páginas que abordam o tema sobre diabetes e foram criadas ou tem publicações de um período posterior ao ano de 2014.\n\nNúmero de Nodes: 15.989\nNúmero de Conexâo: 16.288\nComunidades: 751",
+    "intro": "A rede apresenta todas as palavras utilizadas em postagens de 61 páginas diferentes do Facebook, com a temática a respeito da diabetes, o periodo pesquisado foi entre 01/01/2014 e 10/10/2018.\n\nNúmero de Nodes: 15.989\nNúmero de Conexâo: 16.288\nComunidades: 751\n",
     "title": "Rede Geral"
   },
   "legend": {
