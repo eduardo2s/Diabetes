@@ -11,6 +11,9 @@ margin: 0px;
 .cf:after {
 	clear: both;
 }
+canvas#sigma_edges_1 {
+    background-color: #333;
+}
 
 .cf {
 	zoom: 1;
