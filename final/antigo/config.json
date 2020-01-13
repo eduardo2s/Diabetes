@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Eduardo"
+  },
+  "text": {
+    "more": "A rede apresenta todas as palavras utilizadas em postagens de 60 páginas diferentes do Facebook, com a temática a respeito da diabetes, o periodo pesquisado foi entre 01/01/2014 e 10/10/2018. \n\nNúmero de Nodes: 15916\nNúmero de Conexâo: 15920\nComunidades: 855",
+    "intro": "A rede apresenta todas as palavras utilizadas em postagens de 61 páginas diferentes do Facebook, com a temática a respeito da diabetes, o periodo pesquisado foi entre 01/01/2014 e 10/10/2018.\n\nNúmero de Nodes: 15916\nNúmero de Conexâo: 15920\nComunidades: 855\n",
+    "title": "Rede Geral"
+  },
+  "legend": {
+    "edgeLabel": "Conexões entre as palavras",
+    "colorLabel": "Clusters de termos",
+    "nodeLabel": "Palavras"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
